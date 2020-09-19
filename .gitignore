@@ -1,0 +1,6 @@
+data
+.vscode
+alpaca.txt
+venv
+notebooks
+__pycache__
